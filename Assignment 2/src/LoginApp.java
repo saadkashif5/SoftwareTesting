@@ -80,5 +80,5 @@ public class LoginApp extends JFrame {
             LoginApp loginApp = new LoginApp();
             loginApp.setVisible(true);
         });
-    }
+    }
 }
